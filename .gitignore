@@ -11,6 +11,8 @@ __pycache__/
 *.o
 *.so
 *.pyc
+target/
+rust_emu/target/
 
 # Packages #
 ############
@@ -45,9 +47,6 @@ Thumbs.db
 dev_env/
 # sublime project files ##
 *.sublime-*
-
-media/corp_image/
-media/thumbs/
 
 # Images & Assets for now
 game_guides/assets/
