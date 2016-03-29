@@ -1,0 +1,1 @@
+A n64 emulator written in Rust, following Ferris' youtube series located at: https://www.youtube.com/playlist?list=PL-sXmdrqqYYcznDg4xwAJWQgNL2gRray2
